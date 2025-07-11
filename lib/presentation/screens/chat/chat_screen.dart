@@ -17,7 +17,7 @@ class ChatScreen extends StatelessWidget {
                 'https://www.stylist.co.uk/images/app/uploads/2022/06/01105352/jennifer-aniston-crop-1654077521-1390x1390.jpg?w=256&h=256&fit=max&auto=format%2Ccompress'),
           ),
         ),
-        title: const Text('Mi amor ♥️'),
+        title: const Text('Salome..♥️'),
         centerTitle: false,
       ),
       body: _ChatView(),
